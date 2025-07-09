@@ -5,8 +5,8 @@ author: Ahmad Alismail
 domain: 'hci-deadlines-hhn.github.io'
 baseurl: ''
 
-twitter_hashtag: hci-deadlines
-github_username: hci-deadlines
+
+github_username: hci-deadlines-hhn
 github_repo_confdatabase: conf-database-hhn
 
 markdown: kramdown
