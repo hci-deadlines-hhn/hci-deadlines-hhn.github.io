@@ -569,6 +569,23 @@
   sub: ['AI', 'SP', 'HCI']
   note: co-located with ACM CCS 2025
 
+- title: HCII
+  year: 2026
+  id: hcii26  # lowercase title + last 2 digits of year
+  full_name: HCI International 2026
+  link: https://2026.hci.international/
+  deadline: 2026-03-01 23:59
+  abstract_deadline: 2026-01-01 23:59
+  timezone: UTC
+  place: Montreal, Canada
+  date: July, 26-31, 2026
+  start: 2026-07-26
+  end: 2026-07-31
+  paperslink: https://2026.hci.international/call-for-papers/
+  pwclink: https://2026.hci.international/call-for-papers/
+  sub: HCI
+  note: Dates are tentative
+
 - title: HRI
   year: 2023
   id: hri23
