@@ -95,44 +95,18 @@
   end: 2025-03-25
   sub: HCI
 
-- title: AutoUI
-  year: 2023
-  id: autoui23
-  link: https://www.auto-ui.org/23/
-  deadline: '2023-04-19 23:59:59'
-  timezone: UTC-12
-  place: Ingolstadt, Germany
-  date: September, 18-21, 2023
-  start: 2023-09-18
-  end: 2023-09-21
+- title: Augmented Humans
+  year: 2026
+  id: ah26
+  link: https://augmented-humans.org/calls-for-participation/
+  deadline: '2025-11-18 23:59:59'
+  timezone: Asia/Tokyo
+  place: Okinawa, Japan
+  date: March, 16-19, 2026
+  start: 2026-03-16
+  end: 2026-03-19
   sub: HCI
-  note: Mandatory abstract deadline on April 12, 2023.
-
-- title: AutoUI
-  year: 2024
-  id: autoui24
-  link: https://www.auto-ui.org/24/
-  deadline: '2024-04-17 23:59:59'
-  abstract_deadline: '2024-04-10 23:59:59'
-  timezone: UTC-12
-  place: Stanford, CA, USA
-  date: September, 22-25, 2024
-  start: 2024-09-22
-  end: 2024-09-25
-  sub: HCI
-
-- title: AutoUI
-  year: 2025
-  id: autoui25
-  link: https://www.auto-ui.org/25/
-  deadline: '2025-04-10 23:59:59'
-  abstract_deadline: '2025-04-03 23:59:59'
-  timezone: UTC-12
-  place: Brisbane, Australia
-  date: September, 20-24, 2025
-  start: 2025-09-20
-  end: 2025-09-24
-  sub: HCI
+  note: Dates are tentative
 
 - title: CC
   year: 2025
@@ -569,6 +543,22 @@
   sub: ['AI', 'SP', 'HCI']
   note: co-located with ACM CCS 2025
 
+- title: HCII
+  year: 2026
+  id: hcii26  # lowercase title + last 2 digits of year
+  full_name: HCI International 2026
+  link: https://2026.hci.international/
+  deadline: '2026-03-01 23:59:59'
+  abstract_deadline: '2026-01-01 23:59:59'
+  timezone: UTC
+  place: Montreal, Canada
+  date: July, 26-31, 2026
+  start: 2026-07-26
+  end: 2026-07-31
+  paperslink: https://2026.hci.international/call-for-papers/
+  sub: HCI
+  note: Dates are tentative
+
 - title: HRI
   year: 2023
   id: hri23
@@ -656,6 +646,22 @@
   start: 2025-10-13
   end: 2025-10-17
   sub: HCI
+
+- title: IEEE
+  year: 2026
+  id: ieee26  # title as lower case + last two digits of year
+  full_name: IEEE 2026
+  link: https://satml.org/
+  deadline: '2025-09-24 23:59:59'
+  timezone: Europe/Munich
+  place: Munich, Germany
+  date: March, 23-25, 2026
+  start: 2026-03-23
+  end: 2026-03-25
+  paperslink: https://satml.org/
+  pwclink: https://satml.org/
+  sub: SP
+  note: No ranking available
 
 - title: Ubicomp/ISWC (IMWUT Issue 1)
   year: 2023
