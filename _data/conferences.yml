@@ -674,6 +674,20 @@
   end: 2025-10-17
   sub: HCI
 
+- title: IEEE
+  year: 2026
+  id: ieee26 # title as lower case + last two digits of year
+  full_name: 4th IEEE Conference on Secure and Trustworthy Machine Learning # full conference name
+  link: https://satml.org/
+  deadline: 2025-09-24 23:59
+  timezone: Europe/Munich
+  place: Munich, Germany
+  date: March, 23-25, 2026
+  start: 2026-03-23
+  end: 2026-03-25
+  sub: SP
+  note: No ranking available
+
 - title: Ubicomp/ISWC (IMWUT Issue 1)
   year: 2023
   id: imwut23_1
